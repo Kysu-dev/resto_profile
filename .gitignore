@@ -1,0 +1,3 @@
+# Abaikan kunci privat AWS
+web2.pem
+*.pem
